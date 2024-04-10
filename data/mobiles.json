@@ -1,0 +1,62 @@
+[
+    {
+      "brand": "Samsung",
+      "model": [
+        {
+          "name": "Galaxy S24 Ultra",
+          "url": "https://www.samsung.com/in/smartphones/galaxy-s24-ultra/",
+          "image": "https://images.samsung.com/in/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-highlights-color-carousel-exclusive.jpg?imbypass=true"
+        },
+        {
+          "name": "Galaxy S23 Ultra",
+          "url": "https://www.samsung.com/in/smartphones/galaxy-s23-ultra/",
+          "image": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-colors-green-back.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Motorola",
+      "model": [
+        {
+          "name": "Moto G Play",
+          "url": "https://www.motorola.com/us/smartphones-moto-g-play-gen-3/p?skuId=1041",
+          "image": "https://motorolaimgrepo.vtexassets.com/arquivos/motorola-g-play-2024-pdp-battery-d-.jpg?w=3840&q=75"
+        },
+        {
+          "name": "Motorola Edge",
+          "url": "https://www.motorola.com/us/smartphones-motorola-edge-gen-4/p?skuId=1001",
+          "image": "https://motorolaimgrepo.vtexassets.com/arquivos/motorola-edge-40-pdp-battery-d-sownn1r6.jpg?w=3840&q=75"
+        }
+      ]
+    },
+    {
+      "brand": "Apple",
+      "model": [
+        {
+          "name": "MacBook Pro",
+          "url": "https://www.apple.com/macbook-pro-14-and-16/",
+          "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-card-40-macbookpro-14-16-202310?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1699558878477"
+        },
+        {
+          "name": "MacBook Air",
+          "url": "https://www.apple.com/macbook-air/",
+          "image": "https://www.apple.com/v/mac/home/ab/images/familybrowser/macbookair__e6wyh7tn1vat_large_2x.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "model": [
+        {
+          "name": "ThinkPad X1 Carbon",
+          "url": "https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-10/p/22TP2X1X1C1",
+          "image": "https://m.media-amazon.com/images/I/71wJJL7q8nL._SL1500_.jpg"
+        },
+        {
+          "name": "IdeaPad 5",
+          "url": "https://www.lenovo.com/us/en/laptops/ideapad/ideapad-500-series/IdeaPad-5-15ITL05/p/88IPS501459",
+          "image": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-5-15iil05-hero.png?context=bWFzdGVyfHJvb3R8Mjc1NjczfGltYWdlL3BuZ3xoZmYvaGQ2Lzg4NzMzNzQ0MTc4MTAucG5nfGU2MDViNzlmYTYzOGFhM2Q3ZGViY2I0N2NkYjU4ZDUxYjNiMDllY2FhYzNlYmRkNGFhMTQ2OWI4YjNmMGEzNDU"
+        }
+      ]
+    }
+  ]
